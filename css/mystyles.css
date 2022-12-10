@@ -1,0 +1,120 @@
+.backgroundcolorheading{
+    background-color: aliceblue !important;
+}
+
+.explore{
+    background-color: gray !important;
+}
+
+.greenlook{
+    background-color: var(--bs-green) !important;
+}
+
+.myicon{
+    color: var(--bs-green) !important;
+}
+
+.headersize{
+    font-size: 450% !important;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif !important;
+}
+
+.favfont{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif !important;
+}
+
+.green:hover{
+    color: var(--bs-green) !important;
+}
+
+.graycolor{
+    background-color: lightgray !important;
+
+}
+
+.indent{
+    text-indent: 50px !important;
+}
+
+.indenttimestwo{
+    text-indent: 100px !important;
+}
+
+.resume{
+    font-size: small !important;
+}
+
+.boldfont{
+    font-weight: bolder !important;
+}
+
+.noindentlol{
+    text-indent: 0px !important;
+}
+
+
+.scratchtitle{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 500%;
+    text-align: center;
+    color: rgb(43, 23, 3);
+
+}
+
+.overallscratchstuff{
+    font-size: larger;
+    font-family:'Times New Roman', Times, serif;
+    background-color: rgb(217, 203, 189);
+   
+}
+
+
+.video{
+    display: block;
+    margin: auto;
+    border-color: black;
+    border-width: 10px;
+   
+  }
+
+.slightlysmallertitle{
+    font-size: xx-large;
+    text-align: center;
+    color: rgb(43, 23, 3);
+    font-weight: bold;
+}
+
+.evensmallertitle{
+    font-size: small;
+    text-align: center;
+}
+
+.fillintextbox{
+    background-color: rgb(247, 244, 237);
+    border-width: 5px;
+    border-style: dotted;
+    border-color: rgb(43, 23, 3);
+    color: rgb(43, 23, 3);
+}
+
+.centerheading{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    font-weight: bold;
+}
+
+.slowheadingpleasework{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+}
+
+.scratchimages{
+    width: 28%;
+    margin: 31px;
+    border-color: black;
+    border-width: 5px;
+}
